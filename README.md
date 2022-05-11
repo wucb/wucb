@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on sql lineage
 - 💬 Ask me about sql lineage
 - 📫 How to reach me: wchb163@163.com
+- ⚡ Fun fact: ...
 
 
 <!--
