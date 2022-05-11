@@ -1,8 +1,11 @@
 ### Hi there 👋
-> 有时候... 有时候... 不妨停下脚步
-> 哪怕路上没有风景  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThinkingThigh&show_icons=true&hide_border=true">
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ehlxr&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+<blockquote class='blockquote-center'>有时候... 有时候... 不妨停下脚步
+哪怕路上没有风景  
+</blockquote>
+ 
+
 - 🔭 I’m currently working on sql lineage
 - 💬 Ask me about sql lineage
 - 📫 How to reach me: wchb163@163.com
