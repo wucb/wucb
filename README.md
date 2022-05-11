@@ -2,6 +2,13 @@
 > 天边有一朵云彩，那么洁白，那么轻柔，但却遥不可及
 > 
 > 不妨看看脚下绽放棉花，也是那么洁白，那么轻柔
+
+- 🔭 I’m currently working on sql lineage
+- 🌱 I’m currently learning ...
+- 💬 Ask me about sql lineage
+- 📫 How to reach me: wchb163@163.com
+
+
 <!--
 **wucb/wucb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
