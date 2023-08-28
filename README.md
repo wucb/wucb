@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ehlxr&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 <blockquote class='blockquote-center'>有时候... 有时候... 不妨停下脚步
 哪怕路上没有风景  
